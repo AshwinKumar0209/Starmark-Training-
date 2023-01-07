@@ -1,0 +1,23 @@
+img { 
+    width: 200px;
+    height: 300px;
+    object-fit: fit;
+    padding: 30px;
+    
+  }
+  h1{
+    text-align: center;
+  }
+  a:hover { 
+    background-color: yellow;
+  }
+  a:link {
+    color: green;
+    text-align: center;
+  }
+  a{
+    color:green;
+    text-align: center;
+    padding: 20px;
+    background-color: aliceblue;
+  }
