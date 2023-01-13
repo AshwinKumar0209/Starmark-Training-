@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<Customers>
+  <Customer>
+    <CustomerId>3306</CustomerId>
+    <CustomerName>Ashwin</CustomerName>
+    <CustomerAddress>Bangalore</CustomerAddress>
+    <BillAmount>29000</BillAmount>
+  </Customer>
+  <Customer>
+    <CustomerId>221</CustomerId>
+    <CustomerName>Bhavana</CustomerName>
+    <CustomerAddress>Tumkur</CustomerAddress>
+    <BillAmount>212344</BillAmount>
+  </Customer>
+  <Customer>
+    <CustomerId>1233</CustomerId>
+    <CustomerName>Ashwin</CustomerName>
+    <CustomerAddress>112</CustomerAddress>
+    <BillAmount>123113</BillAmount>
+  </Customer>
+  <Customer>
+    <CustomerId>3306</CustomerId>
+    <CustomerName>Ashwin </CustomerName>
+    <CustomerAddress>Bangalore</CustomerAddress>
+    <BillAmount>28000</BillAmount>
+  </Customer>
+</Customers>

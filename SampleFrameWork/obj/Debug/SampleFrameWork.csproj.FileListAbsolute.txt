@@ -1,0 +1,7 @@
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleFrameWork\bin\Debug\SampleFrameWork.exe.config
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleFrameWork\bin\Debug\SampleFrameWork.exe
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleFrameWork\bin\Debug\SampleFrameWork.pdb
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleFrameWork\obj\Debug\SampleFrameWork.csprojAssemblyReference.cache
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleFrameWork\obj\Debug\SampleFrameWork.csproj.CoreCompileInputs.cache
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleFrameWork\obj\Debug\SampleFrameWork.exe
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleFrameWork\obj\Debug\SampleFrameWork.pdb

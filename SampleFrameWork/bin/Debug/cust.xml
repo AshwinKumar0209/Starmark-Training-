@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <CustId>3306</CustId>
+    <CustName>Ashwin</CustName>
+    <CustAdd>Bangalore</CustAdd>
+    <BillAmt>28000</BillAmt>
+  </Customer>
+  <Customer>
+    <CustId>3306</CustId>
+    <CustName>Ashwin</CustName>
+    <CustAdd>Banaglore</CustAdd>
+    <BillAmt>28000</BillAmt>
+  </Customer>
+  <Customer>
+    <CustId>1</CustId>
+    <CustName>Ashwin</CustName>
+    <CustAdd>asdas</CustAdd>
+    <BillAmt>3432</BillAmt>
+  </Customer>
+</ArrayOfCustomer>
