@@ -1,0 +1,7 @@
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.csprojAssemblyReference.cache
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.csproj.CoreCompileInputs.cache
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleConApp\bin\Debug\SampleConApp.exe.config
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleConApp\bin\Debug\SampleConApp.exe
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleConApp\bin\Debug\SampleConApp.pdb
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.exe
+D:\Starmark_Training\Ashwin_3306\.NET Programming\CompleteDotnetTraining\SampleConApp\obj\Debug\SampleConApp.pdb
